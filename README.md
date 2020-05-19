@@ -1,6 +1,6 @@
-# baekjoon
+# baekjoon1
 
-Scanner와 Bufferedreader의 차이
+## Scanner와 Bufferedreader의 차이
 
 - 스캐너의 경우 사용하기 편리하지만 속도가 느리다
 
